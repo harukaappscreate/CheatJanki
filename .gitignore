@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+*.pyc
+.env
+.env.*
+node_modules/
+assets/audio/_backup/
+
+# 公開しないもの
+elevenlabs/
+tests/
+start.command
